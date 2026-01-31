@@ -62,6 +62,7 @@ The application was developed as an academic project following clean architectur
 ---
 
 ## 👤 Author
-- Student Name:  
-- Student ID:  
+- Student Name:  Hamza Bamder Ali Mahdi
+- Student ID:  2023030524
 - Course: Mobile Application Development  
+
